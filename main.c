@@ -13,7 +13,7 @@ int main()
 
 int main()
 {
-	compare(20,20);
+	compare(40,20);
 	return 0;
 }
 
